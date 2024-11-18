@@ -5,7 +5,7 @@ This is a simple Python game where you can test your luck and strategy against t
 ### How to Play:
 
 1. **Run the Code**:
-   - Save the script as a `.py` file (e.g., `rockpaperscissors.py`).
+   - Save the script as a `.py` file (e.g., `rockpaperscissorsgame.py`).
    - Open a terminal or command prompt.
    - Navigate to the folder where the file is saved.
    - Run the script using the command:
